@@ -1,6 +1,6 @@
 <h1 align="center">Bikcraft<h1>
 
-<img src="https://i.ibb.co/RBmpX7X/Capturar.png" alt="Bikcraft">
+<img align="center"  src="https://i.ibb.co/RBmpX7X/Capturar.png" alt="Bikcraft">
 
 Descrição do Projeto
 
